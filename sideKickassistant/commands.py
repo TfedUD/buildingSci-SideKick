@@ -1,4 +1,4 @@
-import database 
+from sideKickassistant import database
 import sys
 from datetime import datetime
 db = database.DatabaseManager('bigBrainSidekick.db')

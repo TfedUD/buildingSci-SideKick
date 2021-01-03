@@ -1,4 +1,3 @@
-
 # Copied off of Ed May
 import sqlite3 as sq
 
